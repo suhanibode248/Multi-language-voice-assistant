@@ -32,10 +32,10 @@ Voice assistants are widely used but often limited in language support.
 
 This project aims to build a multilingual assistant to improve accessibility and user experience.
 
-Objectives
-Support multiple languages
-Enable voice-based interaction
-Perform tasks like search and automation
+- Objectives
+- Support multiple languages
+- Enable voice-based interaction
+- Perform tasks like search and automation
 
 ---
 
@@ -44,11 +44,11 @@ Existing assistants like Siri, Alexa, and Google Assistant use speech recognitio
 
 Key technologies include:
 
-Speech-to-Text (STT)
-Natural Language Processing (NLP)
-Text-to-Speech (TTS)
+- Speech-to-Text (STT)
+- Natural Language Processing (NLP)
+- Text-to-Speech (TTS)
 
-Libraries like SpeechRecognition, gTTS, and NLP frameworks are commonly used.
+* Libraries like SpeechRecognition, gTTS, and NLP frameworks are commonly used.
 
 ---
 
