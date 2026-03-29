@@ -19,39 +19,36 @@ March 2026
 ---
 
 ## 📄 Abstract  
-This project presents a multi-language voice assistant designed to improve human-computer interaction by enabling users to communicate in different languages. Many existing voice assistants primarily support English, which creates accessibility challenges for non-English speakers.  
+This project presents a multi-language voice assistant that enables users to interact using different languages.
 
-The proposed system uses speech recognition to convert voice input into text, processes it using natural language processing (NLP), and generates appropriate responses through text-to-speech. The assistant supports multiple languages such as English and Hindi, making it more inclusive and user-friendly.  
+It uses speech recognition to convert voice into text, processes it using NLP, and generates responses through text-to-speech. The assistant supports languages like English and Hindi and performs tasks such as answering queries, searching the web, and opening applications.
 
-The system can perform tasks like answering queries, opening applications, searching the web, and providing general information. Machine learning and NLP techniques are used to improve command understanding and response accuracy.  
-
-Overall, the project aims to bridge the language gap and make voice-based technology accessible to a broader audience.  
+The goal is to improve accessibility and make voice-based systems more inclusive.
 
 ---
 
 ## 📖 Introduction  
-Voice assistants have become an important part of modern technology, helping users perform tasks using voice commands. However, most assistants are limited to a few languages, restricting usability for many people.  
+Voice assistants are widely used but often limited in language support.
 
-This project focuses on developing a multi-language voice assistant that can understand and respond in different languages. The motivation is to enhance accessibility and create a more inclusive system.  
+This project aims to build a multilingual assistant to improve accessibility and user experience.
 
-The objectives of this project are:  
-- To support multiple languages in voice interaction  
-- To improve user experience through voice-based commands  
-- To perform tasks such as search, automation, and information retrieval  
+Objectives
+Support multiple languages
+Enable voice-based interaction
+Perform tasks like search and automation
 
 ---
 
 ## 📚 Literature Review  
-Existing voice assistants like Siri, Alexa, and Google Assistant use advanced speech recognition and NLP technologies. Research shows that multilingual systems improve accessibility and user engagement.  
+Existing assistants like Siri, Alexa, and Google Assistant use speech recognition and NLP.
 
-Technologies commonly used include:  
-- Speech-to-Text (STT)  
-- Natural Language Processing (NLP)  
-- Text-to-Speech (TTS)  
+Key technologies include:
 
-Libraries such as Google Speech Recognition, gTTS, and NLP frameworks are widely used in similar systems. Studies highlight that multilingual voice assistants require accurate language detection and efficient processing techniques.  
+Speech-to-Text (STT)
+Natural Language Processing (NLP)
+Text-to-Speech (TTS)
 
-This project builds a simplified version combining these technologies for practical implementation.  
+Libraries like SpeechRecognition, gTTS, and NLP frameworks are commonly used.
 
 ---
 
