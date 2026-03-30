@@ -59,17 +59,17 @@ The system follows a pipeline-based approach. First, the user provides voice inp
 
 ## Implementation  
 
-### 🔹 Programming Languages  
+###  Programming Languages  
 - Python  
 
-### 🔹 Frameworks / Libraries  
+###  Frameworks / Libraries  
 - SpeechRecognition  
 - gTTS (Google Text-to-Speech)  
 - Pyttsx3  
 - Googletrans / Transformers (for translation)  
 - NLTK / SpaCy (for NLP)  
 
-### 🔹 Tools Used  
+###  Tools Used  
 - Jupyter Notebook / VS Code  
 - GitHub  
 
